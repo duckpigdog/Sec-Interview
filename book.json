@@ -1,0 +1,15 @@
+{
+    "plugins": [
+      "-lunr", "-search", "expandable-chapters-small", "splitter", "back-to-top-button", "tbfed-pagefooter", "-highlight"
+    ],
+    "pluginsConfig": {
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy 版权信息",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
