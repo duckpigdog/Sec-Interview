@@ -2,8 +2,6 @@
 
 GitHub 地址：https://github.com/duckpigdog/Sec-Interview
 
-在线浏览：http://113.45.17.228:4000
-
 上万道安全面试题已经全部为您划分好，适用于网络安全所有岗位！！！
 
 HR：请问…………
